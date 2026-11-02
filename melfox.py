@@ -7,7 +7,7 @@ Supported platforms:
     Windows
     macOS
     Linux
-    Haiku
+    Haiku (using "Haiku" script)
     Flatpak Firefox
 
 Requirements:
